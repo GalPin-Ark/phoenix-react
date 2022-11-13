@@ -31,7 +31,7 @@
     "terser-webpack-plugin": "^2.3.2",
     "uglifyjs-webpack-plugin": "^2.2.0",
     "webpack": "4.41.5",
-    "webpack-cli": "^3.3.2"
+    "webpack-cli": "^3.3.12"
   },
   "proxy": "http://localhost:4000"
 }
